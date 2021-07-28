@@ -7,7 +7,7 @@ Brittany,F,21724
 Taylor,F,21267
 Amanda,F,20811
 Elizabeth,F,17557
-Stephanie,F,17183
+Stephanie,F,
 Megan,F,16384
 Lauren,F,16186
 Nicole,F,16180

@@ -4069,7 +4069,7 @@ Auriel,F,26
 Beronica,F,26
 Blima,F,26
 Brigit,F,26
-Britton,F,26
+Britton,F,
 Cadie,F,26
 Calista,F,26
 Campbell,F,26
